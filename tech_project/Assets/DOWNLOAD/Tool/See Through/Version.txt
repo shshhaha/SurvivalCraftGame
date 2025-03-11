@@ -1,0 +1,48 @@
+See Through
+------------------------------------------------------------
+Thank you for buying the See Through asset. This asset allows 
+you to fade away objects that are obscuring the line of sight 
+between a source (mostly a camera) and a target.
+When playing 3th person games (like Diablo, Assasins Creed, 
+etc) you’ll notice that when the player gets obscured by any 
+other object those are fading away so you will always see that
+happens to your game character. As I’m building a game Thyr 
+which has that special camera setup I build the See Through 
+system to allow my players never to lose their characters and 
+can see whatever action is going on.
+I’m hoping this asset will be of any value and save you 
+(and your team) some effort allowing you to focus on your 
+actual gameplay mecanics.
+
+In case of any question, trouble and/or feature request please
+contact me at support@cygnusprojects.com.
+
+------------------------------------------------------------
+History
+------------------------------------------------------------
+Version 1.0.5
+-----------
+- January '24 - Fixed error with Fader not found on catched gameobjects.
+
+Version 1.0.4
+-----------
+- August '19 - Added demo scene and script for showing how to deal with instantiated target.
+
+Version 1.0.3
+-----------
+- January '19 - Added support for Orthographic camera's
+
+Version 1.0.2
+-----------
+- April '17 - Checked 5.6 compatibility
+
+Version 1.0.1
+-----------
+- August '16 - Checked 5.4 compatibility
+
+Version 1.0
+-----------
+- Initial Version
+
+------------------------------------------------------------
+Copyright Cygnus Projects Software 2015-2024, all rights reserved
